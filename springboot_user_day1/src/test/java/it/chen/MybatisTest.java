@@ -47,5 +47,7 @@ public class MybatisTest {
         System.out.println(jsonvalue);
         System.out.println(valueOperations);
         System.out.println(".....................");
+        System.out.println("dddd");
+        System.out.println("222222222222222222222222222");
     }
 }
