@@ -49,5 +49,6 @@ public class MybatisTest {
         System.out.println(".....................");
         System.out.println("dddd");
         System.out.println("222222222222222222222222222");
+        System.out.println("222222222222222222222222222");
     }
 }
